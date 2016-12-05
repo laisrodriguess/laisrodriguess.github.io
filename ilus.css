@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+	background-image: url(autumn-1292948_960_720.png);
+	background-size: cover;
+}
+.jumbotron {
+	background-color: #D6FCBD;
+}
